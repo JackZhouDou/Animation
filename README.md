@@ -6,4 +6,4 @@
 
 
 ### 展示效果
-<iframe height=667 width=375 src="https://github.com/JackZhouDou/Animation/blob/master/animation.mp4">
+<iframe height=667 width=375 src="https://github.com/JackZhouDou/Animation/blob/master/animation_20171128174718.gif">
